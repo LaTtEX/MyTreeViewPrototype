@@ -1,440 +1,0 @@
-TMyTreeViewPrototype
-v7
-r0
-t325046028.988024
-cCheck dependencies
-cProcessInfoPlistFile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/Info.plist MyTreeViewPrototype-Info.plist
-cCompileXIB /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MainWindow.xib
-cCompileXIB /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/RootViewController.xib
-cCpResource build/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowRight_sml.png Images/CircleArrowRight_sml.png
-cCpResource build/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowDown_sml.png Images/CircleArrowDown_sml.png
-cProcessPCH /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch.gch MyTreeViewPrototype_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/main.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototypeAppDelegate.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/RootViewController.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewCell.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeNode.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype normal i386
-cGenerateDSYMFile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app.dSYM /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype
-cTouch /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
-c000000004CB3FA080000000000001ADD
-t1286863368
-s6877
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.h
-c000000004DAF8159000000000000036F
-t1303347545
-s879
-i<Foundation/Foundation.h>
-i"MyTreeNode.h"
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m
-c000000004DAF81750000000000000882
-t1303347573
-s2178
-i"MyTreeNode.h"
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.h
-c000000004DAFA0030000000000000290
-t1303355395
-s656
-i<Foundation/Foundation.h>
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m
-c000000004DAFA0480000000000000BB7
-t1303355464
-s2999
-i"MyTreeViewCell.h"
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.h
-c000000004DAF7B9B00000000000001F5
-t1303346075
-s501
-i<UIKit/UIKit.h>
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m
-c000000004DAF7B9B0000000000000AD5
-t1303346075
-s2773
-i"MyTreeViewPrototypeAppDelegate.h"
-i"RootViewController.h"
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.h
-c000000004DAF847B0000000000000123
-t1303348347
-s291
-i<UIKit/UIKit.h>
-i"MyTreeNode.h"
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m
-c000000004DAF91B70000000000000C7B
-t1303351735
-s3195
-i"RootViewController.h"
-i"MyTreeViewCell.h"
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Images/CircleArrowDown_sml.png
-c000000004D994946000000000000032D
-t1301891398
-s813
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Images/CircleArrowRight_sml.png
-c000000004D994946000000000000036F
-t1301891398
-s879
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MainWindow.xib
-c000000004DAF7B9B0000000000006024
-t1303346075
-s24612
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MyTreeViewPrototype_Prefix.pch
-c000000004DAF7B9B0000000000000158
-t1303346075
-s344
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/RootViewController.xib
-c000000004DAF7B9B000000000000445E
-t1303346075
-s17502
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app
-t1303353228
-s306
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app.dSYM
-t1303353228
-s102
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowDown_sml.png
-t1303348702
-s813
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowRight_sml.png
-t1303348702
-s879
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/Info.plist
-t1303346892
-s645
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MainWindow.nib
-t1303346892
-s1521
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype
-t1303353228
-s33536
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/PkgInfo
-t1303346892
-s8
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/RootViewController.nib
-t1303346892
-s979
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeNode.o
-t1303347573
-s19216
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewCell.o
-t1303353228
-s48960
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototype.LinkFileList
-c000000004DAF810F0000000000000399
-t1303347471
-s921
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototypeAppDelegate.o
-t1303348347
-s53292
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/RootViewController.o
-t1303351737
-s46812
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/main.o
-t1303346893
-s6356
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/MyTreeNode.plist
-t1303347683
-s276
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/MyTreeViewCell.plist
-t1303347683
-s276
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/MyTreeViewPrototypeAppDelegate.plist
-t1303347683
-s276
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/RootViewController.plist
-t1303347683
-s276
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/main.plist
-t1303347683
-s276
-
-N/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m
-c000000004DAF7B9B0000000000000173
-t1303346075
-s371
-i<UIKit/UIKit.h>
-
-N/var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch.gch
-t1303346893
-s15453392
-
-N/var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch.pth
-t1303347683
-s2781664
-
-NMyTreeViewPrototype-Info.plist
-c000000004DAF7B9B000000000000038D
-t1303346075
-s909
-
-CAnalyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m
-s325040483.107045
-e325040483.143612
-r1
-xAnalyze
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m
-lSLF07#2@94"Analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m325040483#325040483#0(0"0(0#0#86"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m8618288640#2480"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch --analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/MyTreeNode.plist0#
-
-CAnalyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m
-s325040483.052730
-e325040483.110148
-r1
-xAnalyze
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m
-lSLF07#2@98"Analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m325040483#325040483#0(0"0(0#0#90"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m8609261568#2488"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch --analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/MyTreeViewCell.plist0#
-
-CAnalyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m
-s325040483.050730
-e325040483.108669
-r1
-xAnalyze
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m
-lSLF07#2@114"Analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m325040483#325040483#0(0"0(0#0#106"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m8614365792#2520"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch --analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/MyTreeViewPrototypeAppDelegate.plist0#
-
-CAnalyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m
-s325040483.051760
-e325040483.109132
-r1
-xAnalyze
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m
-lSLF07#2@102"Analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m325040483#325040483#0(0"0(0#0#94"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m8614208832#2496"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch --analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/RootViewController.plist0#
-
-CAnalyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m
-s325040483.049810
-e325040483.106918
-r1
-xAnalyze
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m
-lSLF07#2@80"Analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m325040483#325040483#0(0"0(0#0#72"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m8614771712#2460"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch --analyze /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/StaticAnalyzer/normal/i386/main.plist0#
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies325046028#325046028#0(0"0(0#1#0"8616734368#0"0#
-
-CCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeNode.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s325040373.813711
-e325040373.912366
-r1
-xCompileC
-xbuild/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeNode.o
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m325040373#325040373#0(0"0(0#0#86"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m8618496416#2471"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeNode.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeNode.o0#
-
-CCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewCell.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s325046028.750233
-e325046028.856487
-r1
-xCompileC
-xbuild/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewCell.o
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@98"Compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m325046028#325046028#0(0"0(0#0#90"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m8615086944#2479"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewCell.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewCell.o0#
-
-CCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototypeAppDelegate.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s325041147.065269
-e325041147.131349
-r1
-xCompileC
-xbuild/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototypeAppDelegate.o
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@114"Compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m325041147#325041147#0(0"0(0#0#106"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m8615745056#2511"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/MyTreeViewPrototypeAppDelegate.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototypeAppDelegate.o0#
-
-CCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/RootViewController.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s325044537.130925
-e325044537.260675
-r1
-xCompileC
-xbuild/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/RootViewController.o
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@102"Compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m325044537#325044537#0(0"0(0#0#94"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m8614861888#2487"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Classes/RootViewController.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/main.o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s325039693.543301
-e325039693.594351
-r1
-xCompileC
-xbuild/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/main.o
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m325039693#325039693#0(0"0(0#0#72"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m8616522496#2451"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -include /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/main.m -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MainWindow.xib
-s325039692.478522
-e325039692.843636
-r1
-xCompileXIB
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib325039692#325039692#0(0"0(0#0#80"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MainWindow.xib8616114016#663"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MainWindow.nib /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/RootViewController.xib
-s325039692.479447
-e325039692.837810
-r1
-xCompileXIB
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/RootViewController.xib
-lSLF07#2@33"CompileXIB RootViewController.xib325039692#325039692#0(0"0(0#0#88"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/RootViewController.xib8616076768#679"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/RootViewController.nib /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCpResource build/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowDown_sml.png Images/CircleArrowDown_sml.png
-s325041502.277680
-e325041502.285623
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowDown_sml.png
-xImages/CircleArrowDown_sml.png
-lSLF07#2@35"Copy Images/CircleArrowDown_sml.png325041502#325041502#0(0"0(0#0#96"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Images/CircleArrowDown_sml.png8618879808#581"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Images/CircleArrowDown_sml.png /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app0#
-
-CCpResource build/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowRight_sml.png Images/CircleArrowRight_sml.png
-s325041502.276865
-e325041502.285353
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/MyTreeViewPrototype.app/CircleArrowRight_sml.png
-xImages/CircleArrowRight_sml.png
-lSLF07#2@36"Copy Images/CircleArrowRight_sml.png325041502#325041502#0(0"0(0#0#97"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Images/CircleArrowRight_sml.png32088426524508268#582"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/Images/CircleArrowRight_sml.png /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app0#
-
-CGenerateDSYMFile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app.dSYM /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype
-s325046028.896647
-e325046028.985895
-r1
-xGenerateDSYMFile
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app.dSYM
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype
-lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/MyTreeViewPrototype.app.dSYM build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype325046028#325046028#0(0"0(0#0#137"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype8619212704#500"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app.dSYM0#
-
-CLd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype normal i386
-s325046028.856605
-e325046028.896569
-r1
-xLd
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype
-xnormal
-xi386
-lSLF07#2@142"Link /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype325046028#325046028#0(0"0(0#0#0"8619633536#1095"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -filelist /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/Objects-normal/i386/MyTreeViewPrototype.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/MyTreeViewPrototype0#
-
-CProcessInfoPlistFile /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/Info.plist MyTreeViewPrototype-Info.plist
-s325039692.459983
-e325039692.478417
-r1
-xProcessInfoPlistFile
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/Info.plist
-xMyTreeViewPrototype-Info.plist
-lSLF07#2@38"Process MyTreeViewPrototype-Info.plist325039692#325039692#0(0"0(0#0#96"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MyTreeViewPrototype-Info.plist21673775077654640#596"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyTreeViewPrototype-Info.plist -genpkginfo /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app/Info.plist0#
-
-CProcessPCH /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch.gch MyTreeViewPrototype_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s325039692.843888
-e325039693.543189
-r1
-xProcessPCH
-x/var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch.gch
-xMyTreeViewPrototype_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@41"Precompile MyTreeViewPrototype_Prefix.pch325039692#325039693#0(0"0(0#0#96"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MyTreeViewPrototype_Prefix.pch8616069216#2304"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MyTreeViewPrototype_Prefix.pch -o /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-ckfhxlkhseardkfhfdztexwlgiqt/MyTreeViewPrototype_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch.pth MyTreeViewPrototype_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
-s325040482.760387
-e325040483.049136
-r1
-xProcessPCH
-x/var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch.pth
-xMyTreeViewPrototype_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.analyzer
-lSLF07#2@41"Precompile MyTreeViewPrototype_Prefix.pch325040482#325040483#0(0"0(0#0#96"/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MyTreeViewPrototype_Prefix.pch8616702816#2295"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-generated-files.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-own-target-headers.hmap -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-all-target-headers.hmap -iquote /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/MyTreeViewPrototype-project-headers.hmap -F/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/include -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources/i386 -I/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/MyTreeViewPrototype.build/Debug-iphonesimulator/MyTreeViewPrototype.build/DerivedSources -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/MyTreeViewPrototype_Prefix.pch -o /var/folders/pd/pdgMmYgMEYWIroEi++qhAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTreeViewPrototype_Prefix-djimvuqbpprihgffoeeygguvlgqg/MyTreeViewPrototype_Prefix.pch.pth0#
-
-CTouch /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app
-s325046028.985978
-e325046028.987993
-r1
-xTouch
-x/Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app
-lSLF07#2@123"Touch /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app325046028#325046028#0(0"0(0#0#0"8619091648#344"    cd /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jonlimjap/Projects/MyTreeViewPrototype/MyTreeViewPrototype/build/Debug-iphonesimulator/MyTreeViewPrototype.app0#
-
