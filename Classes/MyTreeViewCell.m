@@ -54,8 +54,6 @@
 				[UIImage imageNamed:self.expanded ? 
 				 @"CircleArrowDown_sml" : @"CircleArrowRight_sml"]];
 		[content addSubview:self.arrowImage];
-		
-		[content release];
     }
     return self;
 }
