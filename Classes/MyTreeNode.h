@@ -19,9 +19,9 @@
 }
 
 @property (nonatomic) int index;
-@property (nonatomic, retain) NSString *value;
-@property (nonatomic, retain) MyTreeNode *parent;
-@property (nonatomic, retain, readonly) NSMutableArray *children;
+@property (nonatomic, strong) NSString *value;
+@property (nonatomic, strong) MyTreeNode *parent;
+@property (nonatomic, strong, readonly) NSMutableArray *children;
 @property (nonatomic) BOOL inclusive;
 
 - (id)initWithValue:(NSString *)_value;

@@ -62,12 +62,6 @@
 #pragma mark -
 #pragma mark Memory Management
 
-- (void)dealloc {
-	[valueLabel release];
-	[arrowImage release];
-	
-    [super dealloc];
-}
 
 #pragma mark -
 #pragma mark Other overrides
