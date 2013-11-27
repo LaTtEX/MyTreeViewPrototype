@@ -46,7 +46,7 @@
 			[self newLabelWithPrimaryColor:[UIColor blackColor] 
 							 selectedColor:[UIColor whiteColor] 
 								  fontSize:20.0 bold:YES];
-		self.valueLabel.textAlignment = UITextAlignmentLeft;
+		self.valueLabel.textAlignment = NSTextAlignmentLeft;
 		[content addSubview:self.valueLabel];
 		
 		self.arrowImage = 
