@@ -19,14 +19,12 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {        
+    self.window.rootViewController = ({
+        RootViewController *rootController = [[RootViewController alloc] init];
+        [[UINavigationController alloc] initWithRootViewController:rootController];
+    });
     
-    // Override point for customization after application launch.
-    
-    // Add the navigation controller's view to the window and display.
-    [self.window addSubview:navigationController.view];
-    [self.window makeKeyAndVisible];
-
     return YES;
 }
 
