@@ -17,8 +17,8 @@
 	BOOL expanded;
 }
 
-@property (nonatomic, retain) UILabel *valueLabel;
-@property (nonatomic, retain) UIImageView *arrowImage;
+@property (nonatomic, strong) UILabel *valueLabel;
+@property (nonatomic, strong) UIImageView *arrowImage;
 @property (nonatomic) int level;
 @property (nonatomic) BOOL expanded;
 

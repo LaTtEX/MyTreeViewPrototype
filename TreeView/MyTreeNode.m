@@ -41,12 +41,6 @@
 #pragma mark -
 #pragma mark Memory Management
 
-- (void) dealloc {
-	[children release];
-	[flattenedTreeCache release];
-	
-	[super dealloc];
-}
 
 #pragma mark -
 #pragma mark Methods
@@ -74,11 +68,10 @@
 	if (!flattenedTreeCache || invalidate) {
 		//if there was a previous cache and due for invalidate, release resources first
 		if (flattenedTreeCache) {
-			[flattenedTreeCache release];
 			flattenedTreeCache = nil;
 		}
 		
-		NSMutableArray *allElements = [[[NSMutableArray alloc] initWithCapacity:[self descendantCount]] autorelease];
+		NSMutableArray *allElements = [[NSMutableArray alloc] initWithCapacity:[self descendantCount]];
 		[allElements addObject:self];
 		
 		if (inclusive) {

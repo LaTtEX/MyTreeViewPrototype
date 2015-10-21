@@ -46,7 +46,7 @@
 			[self newLabelWithPrimaryColor:[UIColor blackColor] 
 							 selectedColor:[UIColor whiteColor] 
 								  fontSize:20.0 bold:YES];
-		self.valueLabel.textAlignment = UITextAlignmentLeft;
+		self.valueLabel.textAlignment = NSTextAlignmentLeft;
 		[content addSubview:self.valueLabel];
 		
 		self.arrowImage = 
@@ -62,12 +62,6 @@
 #pragma mark -
 #pragma mark Memory Management
 
-- (void)dealloc {
-	[valueLabel release];
-	[arrowImage release];
-	
-    [super dealloc];
-}
 
 #pragma mark -
 #pragma mark Other overrides
