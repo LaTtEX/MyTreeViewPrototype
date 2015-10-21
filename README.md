@@ -1,11 +1,26 @@
-MyTreeViewPrototype
-==
-Jon Limjap - [jonlimjap@gmail.com](mailto:jonlimjap@gmail.com)
+# DKTreeView
 
-MyTreeViewPrototype is a basic implementation of a tree view control for the iPhone. Written in Objective-C for the CocoaTouch framework.
+Basic implementation of a tree view control for iOS.
 
-This project uses ARC.
+![](assets/demo.gif)
 
-Disclaimer
----
-THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+## Installation
+
+Copy the files in the TreeView folder to your project.
+
+## Demo
+This project includes sample project.
+
+## Notes
+
+- This project was tested with iOS 9.
+- Thanks to Jon Limjap who wrote the original [code](https://github.com/LaTtEX/MyTreeViewPrototype).
+
+## Contact
+
+- [github.com/dkhamsing](https://github.com/dkhamsing)
+- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)
+
+## License
+
+This project is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
